@@ -1,0 +1,4 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.1\Nop.Core.Tests.csprojAssemblyReference.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.1\Nop.Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.1\Nop.Core.Tests.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.1\Nop.Core.Tests.AssemblyInfo.cs

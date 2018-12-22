@@ -1,0 +1,3 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs

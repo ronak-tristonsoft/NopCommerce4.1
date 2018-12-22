@@ -1,0 +1,4 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Manual.AssemblyInfo.cs

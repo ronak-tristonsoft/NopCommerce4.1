@@ -1,0 +1,3 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs

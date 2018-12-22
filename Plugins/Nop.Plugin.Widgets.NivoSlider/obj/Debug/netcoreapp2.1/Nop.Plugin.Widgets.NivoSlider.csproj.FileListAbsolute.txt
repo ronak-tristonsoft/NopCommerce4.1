@@ -1,0 +1,4 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.NivoSlider.csprojAssemblyReference.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.NivoSlider.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.NivoSlider.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.NivoSlider.AssemblyInfo.cs

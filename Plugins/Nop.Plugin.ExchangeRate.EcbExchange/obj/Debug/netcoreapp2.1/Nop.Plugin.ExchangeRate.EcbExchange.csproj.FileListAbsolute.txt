@@ -1,0 +1,4 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfo.cs

@@ -1,0 +1,3 @@
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.csproj.CoreCompileInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.AssemblyInfoInputs.cache
+C:\Users\gurudatt.parmar\Desktop\NopCommercePracticeFloder\NopCommerceDemo3\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp2.1\Nop.Plugin.Shipping.UPS.AssemblyInfo.cs
